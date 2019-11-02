@@ -10,4 +10,7 @@ class stack(object):
     
 
     def pop(self, item):
-        self.item.pop(item)
+        return self.item.pop(item)
+    
+    def get_stack(self):
+        return self.item
