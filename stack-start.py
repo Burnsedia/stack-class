@@ -1,4 +1,4 @@
-
+import sys 
 
 class stack(object):
     def __init__():
